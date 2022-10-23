@@ -51,4 +51,15 @@ It's more easy learn exceptions to the rule
 | sports       | football, basketball       |
 
 
-At least we use adjectives, prepositions or other constructions
+At least we use adjectives, prepositions or other grammatical constructions, but if the noun is the subject of the sentence, we don't use the.
+| right                             | wrong                              |
+| --------------------------------- | ---------------------------------- |
+| I will travel to Paris            | I will travel to the Paris         |
+| I don't like the Paris metro      |                                    |
+|                                   |                                    |
+| I like football                   | I like the football                |
+| I like the football game          |                                    |
+|                                   |                                    |
+| On Monday I will go to the office | The Monday I will go to the office |
+
+
