@@ -1,7 +1,7 @@
 ## what is a noun?
 The simplest definition of a noun is `a thing`.
 This thing can **represent** a person, animal, place, idea, emotion, just about **anything** you can think of.
-In English there is **no** grammatical gender to **differentiate** between the **masculine** and the **feminine**.
+In English, there is **no** grammatical gender to **differentiate** between the **masculine** and the **feminine**.
 
 There are several categories of nouns and a noun may belong to more than one category:
 - [countable nouns](#countable)
@@ -61,7 +61,7 @@ Specific represent to someone or something tangible:
 | Simon   |     |
 
 ## abstract
-Abstract represent  something that is more of a concept or idea than a tangible idea:
+Abstract represent something that is more of a concept or idea than a tangible idea:
 | example |     |
 | ------- | --- |
 | love    |     |
