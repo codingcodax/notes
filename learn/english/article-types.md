@@ -37,7 +37,7 @@ An exception is when the noun begin with `u`, `ew` and `eu` and its projected so
 
 ## the
 We use the article `the` to refer to specific objects, with singular or plural nouns.
-It's more easy learn exceptions to the rule
+It's easier learn exceptions to the rule
 | noun type    | example                    |
 | ------------ | -------------------------- |
 | colors       | blue, black, pink          |
