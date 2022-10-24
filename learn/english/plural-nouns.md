@@ -41,7 +41,7 @@
 | one analysis | two analyses |
 | one basis    | two bases    |
 
-9. There are some nouns whose plural is irregular, i.e., it does't follow any of previous rules:
+9. There are some nouns whose plural is irregular, i.e., it doesn't follow any of previous rules:
 | singular | plural   |
 | -------- | -------- |
 | man      | men      |
