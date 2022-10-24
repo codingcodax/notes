@@ -17,7 +17,7 @@ There are five basic sentence structures in the English language.
 | subject-verb-adverb    | Daniela walks slowly   |
 | subject-verb-noun      | He is the actor        |
 
-In English we can differentiate between 6 main types of sentences.
+In English, we can differentiate between 6 main types of sentences.
 | type                    |     |
 | ----------------------- | --- |
 | affirmative sentences   |     |
