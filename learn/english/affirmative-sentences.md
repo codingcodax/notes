@@ -1,11 +1,11 @@
 Affirmative sentences in English, which serve to express a reality or affirmation, follow a simple structure composed by `noun + verb + complement`.
 
 Some complement types are:
-| example     |     |
-| ----------- | --- |
-| other nouns |     |
-| adverbs     |     |
-| adjectives  |     |
+| example                            |     |     |
+| ---------------------------------- | --- | --- |
+| other [nouns](/learn/english/noun) |     |     |
+| adverbs                            |     |     |
+| adjectives                         |     |     |
 
 And a complement can be either direct or indirect.
 

@@ -1,7 +1,7 @@
 To understand sentence structures, you must first have a general understanding of the types of words that are used to form sentences.  
 | type      | what it is                                |
 | --------- | ----------------------------------------- |
-| noun      | a person, a place, a thing                |
+| [[noun]]  | a person, a place, a thing                |
 | verb      | an action                                 |
 | adjective | describes a noun                          |
 | adverb    | describes other words but not nouns       |
@@ -18,11 +18,11 @@ There are five basic sentence structures in the English language.
 | subject-verb-noun      | He is the actor        |
 
 In English, we can differentiate between 6 main types of sentences.
-| type                    |     |
-| ----------------------- | --- |
-| affirmative sentences   |     |
-| negative sentences      |     |
-| interrogative sentences |     |
-| conditional sentences   |     |
-| relative sentences      |     |
-| imperative sentences    |     |
+| type                                                          |     |
+| ------------------------------------------------------------- | --- |
+| [affirmative sentences](/learn/english/affirmative-sentences) |     |
+| negative sentences                                            |     |
+| interrogative sentences                                       |     |
+| conditional sentences                                         |     |
+| relative sentences                                            |     |
+| imperative sentences                                          |     |

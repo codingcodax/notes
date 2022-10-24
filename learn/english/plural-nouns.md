@@ -24,7 +24,7 @@
 | -------- | ------ |
 | boy      | boys   |
 
-6. Some nouns ending in `-o` form plurals with `-es`:
+6. Some [nouns](/learn/english/noun) ending in `-o` form plurals with `-es`:
 | singular   | plural       |
 | ---------- | ------------ |
 | one potato | two potatoes |
@@ -41,7 +41,7 @@
 | one analysis | two analyses |
 | one basis    | two bases    |
 
-9. There are some nouns whose plural is irregular, i.e., it doesn't follow any of the previous rules:
+9. There are some [nouns](/learn/english/noun) whose plural is irregular, i.e., it doesn't follow any of the previous rules:
 | singular | plural   |
 | -------- | -------- |
 | man      | men      |
@@ -61,7 +61,7 @@
 | sheep    |     |
 | species  |     |
 
-11. There are also some nouns that exist only in their plural form:
+11. There are also some [nouns](/learn/english/noun) that exist only in their plural form:
 | plural   |     |
 | -------- | --- |
 | clothes  |     |

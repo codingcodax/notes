@@ -1,4 +1,4 @@
-The personal pronouns replace the nouns that function as the subject in a sentence.
+The personal pronouns replace the [nouns](/learn/english/noun) that function as the subject in a sentence.
 - number
 | singular | plural |
 | -------- | ------ |
