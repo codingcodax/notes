@@ -19,7 +19,7 @@
 | 8:45 | It's a quarter to nine      |
 | 9:50 | It's 10 minutes to nine     |
 
-- In English the time is measured in 12-hours intervals, using `am` for morning and `pm` for night.
+- In English, the time is measured in 12-hours intervals, using `am` for morning and `pm` for night.
 | time  | writing   |
 | ----- | --------- |
 | 08:00 | It's 8 am |
