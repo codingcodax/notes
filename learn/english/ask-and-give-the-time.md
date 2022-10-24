@@ -1,4 +1,4 @@
-- There are two ways to give the time.
+- There are **two ways** to give the time.
 	1. Tell the hour and then the minutes.
 | time | writing          |
 | ---- | ---------------- |

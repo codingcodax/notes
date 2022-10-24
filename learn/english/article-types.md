@@ -1,4 +1,4 @@
-In English, there are not as many variations of the articles as in other languages.
+In English, there are **not** as **many variations** of the articles as in other languages.
 |          | general | specific |
 | -------- | ------- | -------- |
 | singular | [a](#a) / [an](#an)  | [the](#the)      |

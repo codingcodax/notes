@@ -1,4 +1,4 @@
-In English, the dates are written month/day/year format:
+In English, the dates are written **month/day/year** format:
 | other languages    | english    |
 | ------------------ | ---------- |
 | Julio 26 de 1994   | 07/26/1994 |

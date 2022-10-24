@@ -1,4 +1,4 @@
-Affirmative sentences in English, which serve to express a reality or affirmation, follow a simple structure composed by `noun + verb + complement`.
+Affirmative sentences in English, which serve to **express** a **reality** or **affirmation**, follow a simple structure composed by `noun + verb + complement`.
 
 Some complement types are:
 | example                            |     |     |
