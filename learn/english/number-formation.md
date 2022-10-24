@@ -48,7 +48,7 @@ From 21 - 99, tens and units are joined by a hyphen:
 | 35     | thirty-five  |
 | 88     | eighty-eight |
 
-## 100, 1000, million, etc
+## 100, 1000, million, etc.
 The words hundred, thousand and million are always written in singular form:
 | number       | writing      |
 | ------------ | ------------ |
