@@ -7,7 +7,7 @@ When there are different elements in a negative sentence, the order to be follow
 1. Subject: it can be a personal pronoun, a proper name or common, etc.
 2. Negative auxiliary: it can be a conjugated particle with the verb `to do (don't/doesn't)` or with the verb `to have (haven't/hasn't)`.
 3. Verb: varies depending on the verb being referred to.
-4. Mode adverbs: express the way in which the action is being carried out.
+4. Adverbs of manner: express the way in which the action is being carried out.
 5. Place adverbs: express where the action is taking place.
 6. Time adverbs: indicate when the action is being taken.
 
