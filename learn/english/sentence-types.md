@@ -21,7 +21,7 @@ In English, we can differentiate between 6 main types of sentences.
 | type                                                          |     |
 | ------------------------------------------------------------- | --- |
 | [affirmative sentences](/learn/english/affirmative-sentences) |     |
-| negative sentences                                            |     |
+| [negative sentences](/learn/english/negative-sentences)                                            |     |
 | interrogative sentences                                       |     |
 | conditional sentences                                         |     |
 | relative sentences                                            |     |
