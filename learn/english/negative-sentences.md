@@ -57,7 +57,7 @@ Unlike the rest of verbs, the verb to be has its own negative form (in the simpl
 
 | personal pronoun | verb to be present | verb to be past  |
 | ---------------- | ------------------ | ---------------- |
-| I                | am not             | was not/wasn't   |
+| I                | am not/'m not      | was not/wasn't   |
 | You              | are not/aren't     | were not/weren't |
 | He/She/It        | is not/isn't       | was not/wasn't   |
 | We               | are not/aren't     | were not/weren't |
