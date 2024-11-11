@@ -1,5 +1,12 @@
+---
+id: git
+aliases: []
+tags: []
+---
+
 Aliases for git plugin.
 Don't forget add `git` to the plugins array in your `~/.zshrc` file.
+
 [Full list](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git)
 
 | Alias | Command                           |

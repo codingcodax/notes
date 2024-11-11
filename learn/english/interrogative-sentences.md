@@ -1,6 +1,13 @@
+---
+id: interrogative-sentences
+aliases: []
+tags: []
+---
+
 The interrogative sentences, in English, are used to formulate questions. These follow the following structure: `auxiliary + subject + verb + complement`.
 
 A question in English will take the following order:
+
 1. Interrogative pronoun: denotes the type of question and what is being asked.
 2. Interrogative auxiliary: may be a conjugated particle with the verb `to do (do/does)`, with the verb `to have (has/have)` or with the verb `to be (am/is/are)`.
 3. Subject: it can be a personal pronoun, proper or common noun, etc.
@@ -21,6 +28,7 @@ In the following table you will find three examples divided into the different c
 | What time             | did      | you     | arrive | at home?         |
 
 ## interrogative sentences with the verb to be
+
 The verb `to be`, has its own form in interrogative sentences (in the simple form of the present and past) and that's why we shouldn't add any auxiliary in case we are making a question.
 
 | personal pronoun | verb to be present | verb to be past   |
@@ -32,18 +40,19 @@ The verb `to be`, has its own form in interrogative sentences (in the simple for
 | You              | Are you...?        | Were you...?      |
 | They             | Are they...?       | Were they...?     |
 
-| example                                           |     |
-| ------------------------------------------------- | --- |
-| Was he the one who sent you a bouquet?            |     |
-| Are we in the correct place? I don't know anybody |     |
-| Are you already in the bar?                       |     |
+| example                                           |
+| ------------------------------------------------- |
+| Was he the one who sent you a bouquet?            |
+| Are we in the correct place? I don't know anybody |
+| Are you already in the bar?                       |
 
 ## short questions
+
 The short questions, in English, are used to ask for a double opinion or to seek the approval of the interlocutor.
 To be able to ask this type of question, we must look at how the sentence is made.
-| affirmative sentences    | negative questions |
+| affirmative sentences | negative questions |
 | ------------------------ | ------------------ |
-| Have you been in London? | Haven't you?       |
+| Have you been in London? | Haven't you? |
 
 | negative sentences          | affirmative questions |
 | --------------------------- | --------------------- |

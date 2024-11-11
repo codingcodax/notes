@@ -1,4 +1,11 @@
+---
+id: npkill
+aliases: []
+tags: []
+---
+
 Easily find and remove old and heavy `node_modules` folders ✨
 
-##  installation
+## installation
+
 Run `npx npkill`
