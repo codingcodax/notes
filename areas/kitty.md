@@ -76,7 +76,8 @@ cursor_underline_thickness  2.5
 mouse_hide_wait             1.0
 
 # Window
-hide_window_decorations     titlebar-only
+hide_window_decorations     titlebar-only # macOS
+# hide_window_decorations     yes # Ubuntu
 
 # Tab
 tab_bar_style               powerline
