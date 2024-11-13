@@ -11,16 +11,10 @@ Focused on speed, privacy, and security. Built on the WebKit rendering engine.
 
 ## Extensions
 
-[[ad-block]]
-
-[[better-player]]
-
-[[duck-duck-go]]
-
-[[keepa]]
-
-[[refined-github]]
-
-[[minimal-twitter]]
-
-[[vimlike]]
+- [[ad-block]]
+- [[better-player]]
+- [[duck-duck-go]]
+- [[keepa]]
+- [[refined-github]]
+- [[minimal-twitter]]
+- [[vimlike]]
