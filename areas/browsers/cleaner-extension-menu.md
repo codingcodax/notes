@@ -1,7 +1,9 @@
 ---
 id: cleaner-extension-menu
 aliases: []
-tags: []
+tags:
+  - zen-browser
+  - theme
 ---
 
 # Cleaner extension menu

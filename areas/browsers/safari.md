@@ -1,7 +1,8 @@
 ---
 id: safari
 aliases: []
-tags: []
+tags:
+  - browser
 ---
 
 # Safari
@@ -11,10 +12,10 @@ Focused on speed, privacy, and security. Built on the WebKit rendering engine.
 
 ## Extensions
 
-- [[ad-block]]
-- [[better-player]]
-- [[duck-duck-go]]
-- [[keepa]]
-- [[refined-github]]
-- [[minimal-twitter]]
-- [[vimlike]]
+- [[ad-block|Ad-Block]]
+- [[better-player|Better Player]]
+- [[duck-duck-go|DuckDuckGo]]
+- [[keepa|Keepa]]
+- [[refined-github|Refined GitHub]]
+- [[minimal-twitter|Minimal Twitter]]
+- [[vimlike|VimLike]]

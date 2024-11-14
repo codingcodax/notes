@@ -1,7 +1,9 @@
 ---
 id: better-unloaded-tabs
 aliases: []
-tags: []
+tags:
+  - zen-browser
+  - theme
 ---
 
 # Better unloaded tabs

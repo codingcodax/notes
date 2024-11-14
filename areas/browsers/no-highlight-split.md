@@ -1,7 +1,9 @@
 ---
 id: no-highlight-split
 aliases: []
-tags: []
+tags:
+  - zen-browser
+  - theme
 ---
 
 # No highlight split

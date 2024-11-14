@@ -1,7 +1,9 @@
 ---
 id: cleaned-url-bar
 aliases: []
-tags: []
+tags:
+  - zen-browser
+  - theme
 ---
 
 # Cleaned URL bar

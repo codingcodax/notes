@@ -1,7 +1,9 @@
 ---
 id: zen-back-forward
 aliases: []
-tags: []
+tags:
+  - zen-browser
+  - theme
 ---
 
 # Zen back forward

@@ -1,7 +1,9 @@
 ---
 id: zen-minimal-exit-menu
 aliases: []
-tags: []
+tags:
+  - zen-browser
+  - theme
 ---
 
 # Zen minimal exit menu

@@ -1,7 +1,9 @@
 ---
 id: hide-extension-name
 aliases: []
-tags: []
+tags:
+  - zen-browser
+  - theme
 ---
 
 # Hide extension name

@@ -1,7 +1,9 @@
 ---
 id: now-playing-indicator
 aliases: []
-tags: []
+tags:
+  - zen-browser
+  - theme
 ---
 
 # Now playing indicator

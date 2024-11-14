@@ -1,7 +1,9 @@
 ---
 id: floating-url-bar
 aliases: []
-tags: []
+tags:
+  - zen-browser
+  - theme
 ---
 
 # Floating URL bar

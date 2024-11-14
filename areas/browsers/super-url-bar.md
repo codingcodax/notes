@@ -1,7 +1,9 @@
 ---
 id: super-url-bar
 aliases: []
-tags: []
+tags:
+  - zen-browser
+  - theme
 ---
 
 # Super url bar

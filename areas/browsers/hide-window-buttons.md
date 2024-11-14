@@ -1,7 +1,9 @@
 ---
 id: hide-window-buttons
 aliases: []
-tags: []
+tags:
+  - zen-browser
+  - theme
 ---
 
 # Hide window buttons

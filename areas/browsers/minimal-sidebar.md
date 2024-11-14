@@ -1,7 +1,9 @@
 ---
 id: minimal-sidebar
 aliases: []
-tags: []
+tags:
+  - zen-browser
+  - theme
 ---
 
 # Minimal sidebar

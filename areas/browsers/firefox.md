@@ -1,7 +1,8 @@
 ---
 id: firefox
 aliases: []
-tags: []
+tags:
+  - browser
 ---
 
 # Firefox

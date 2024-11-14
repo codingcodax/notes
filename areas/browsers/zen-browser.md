@@ -1,7 +1,8 @@
 ---
 id: zen-browser
 aliases: []
-tags: []
+tags:
+  - browser
 ---
 
 # Zen browser
@@ -57,18 +58,18 @@ Zen Browser has a mods store that allows you to install "themes" to customize th
 
 > Reference: [Zen Mods](https://zen-browser.app/mods)
 
-- [[better-active-tab]]
-- [[better-unloaded-tabs]]
-- [[cleaned-url-bar]]
-- [[cleaner-extension-menu]]
-- [[floating-status-bar]]
-- [[floating-url-bar]]
-- [[hide-window-buttons]]
-- [[minimal-sidebar]]
-- [[no-sidebar-scrollbar]]
-- [[no-highlight-split]]
-- [[now-playing-indicator]]
-- [[super-url-bar]]
-- [[zen-back-forward]]
-- [[zen-context-menu]]
-- [[zen-minimal-exit-menu]]
+- [[better-active-tab|Better active tab]]
+- [[better-unloaded-tabs|Better unloaded tabs]]
+- [[cleaned-url-bar|Cleaned URL bar]]
+- [[cleaner-extension-menu|Cleaner extension menu]]
+- [[floating-status-bar|Floating status bar]]
+- [[floating-url-bar|Floating URL bar]]
+- [[hide-window-buttons|Hide window buttons]]
+- [[minimal-sidebar|Minimal sidebar]]
+- [[no-sidebar-scrollbar|No sidebar scrollbar]]
+- [[no-highlight-split|No highlight split]]
+- [[now-playing-indicator|Now playing indicator]]
+- [[super-url-bar|Super URL bar]]
+- [[zen-back-forward|Zen back forward]]
+- [[zen-context-menu|Zen context menu]]
+- [[zen-minimal-exit-menu|Zen minimal exit menu]]

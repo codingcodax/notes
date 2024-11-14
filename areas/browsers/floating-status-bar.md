@@ -1,7 +1,9 @@
 ---
 id: floating-status-bar
 aliases: []
-tags: []
+tags:
+  - zen-browser
+  - theme
 ---
 
 # Floating status bar

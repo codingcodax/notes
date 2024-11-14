@@ -1,7 +1,9 @@
 ---
 id: zen-context-menu
 aliases: []
-tags: []
+tags:
+  - zen-browser
+  - theme
 ---
 
 # Zen context menu

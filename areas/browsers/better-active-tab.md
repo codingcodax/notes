@@ -1,7 +1,9 @@
 ---
 id: better-active-tab
 aliases: []
-tags: []
+tags:
+  - zen-browser
+  - theme
 ---
 
 # Better active tab

@@ -1,7 +1,9 @@
 ---
 id: no-sidebar-scrollbar
 aliases: []
-tags: []
+tags:
+  - zen-browser
+  - theme
 ---
 
 # No sidebar scrollbar
