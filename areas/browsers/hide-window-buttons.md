@@ -12,4 +12,4 @@ Hide the minimize, maximize, and close window buttons.
 
 ## Configuration
 
-![hi](../resources/hide-window-buttons-config.png)
+![hi](hide-window-buttons-config.png)

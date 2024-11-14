@@ -10,7 +10,7 @@ Some complement types are:
 
 | example                            |
 | ---------------------------------- |
-| other [nouns](/learn/english/noun) |
+| other [nouns](noun.md) |
 | adverbs                            |
 | adjectives                         |
 

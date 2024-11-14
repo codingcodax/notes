@@ -4,7 +4,7 @@ aliases: []
 tags: []
 ---
 
-The personal pronouns replace the [nouns](/learn/english/noun) that function as the subject in a sentence.
+The personal pronouns replace the [nouns](noun.md) that function as the subject in a sentence.
 
 - number
 

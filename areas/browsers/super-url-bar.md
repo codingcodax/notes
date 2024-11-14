@@ -12,4 +12,4 @@ Get simple rounded edges, centered text, a removed border for your url bar and a
 
 ## Configuration
 
-![hi](../resources/super-url-bar-config.png)
+![hi](super-url-bar-config.png)

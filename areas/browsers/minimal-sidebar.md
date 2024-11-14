@@ -12,4 +12,4 @@ With this Zen theme, you can remove the buttons from the sidebar and make more s
 
 ## Configuration
 
-![hi](../resources/minimal-sidebar-config.png)
+![hi](minimal-sidebar-config.png)

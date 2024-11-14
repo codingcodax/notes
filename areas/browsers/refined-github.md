@@ -13,7 +13,7 @@ Browser extension that simplifies the GitHub interface and adds useful features
 
 [GitHub Repo](https://github.com/refined-github/refined-github)
 
-> ![!NOTE]
+> [!NOTE]
 > This extension requires a GitHub API token.
 
 ## Installation

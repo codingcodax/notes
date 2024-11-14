@@ -19,7 +19,7 @@ Remember that the article is omitted when you refer to something non-specific in
 
 ## a
 
-The article `a` is placed before singular and [countable nouns](/learn/english/noun#countable).
+The article `a` is placed before singular and [countable nouns](noun.md#countable).
 
 | example                     |
 | --------------------------- |
@@ -32,7 +32,7 @@ The article `a` is placed before singular and [countable nouns](/learn/english/n
 
 ## an
 
-The article `an` and is placed before singular and [countable nouns](/learn/english/noun#countable).
+The article `an` and is placed before singular and [countable nouns](noun.md#countable).
 It is used when the following noun begins with a vowel or with a silent `h` .
 
 | example                      |
@@ -41,7 +41,7 @@ It is used when the following noun begins with a vowel or with a silent `h` .
 | She is **an** american       |
 | I want to eat **an** avocado |
 
-An exception is when the [noun](/learn/english/noun) begin with `u`, `ew` and `eu` and its projected sound sounds like the word `you`, we must use the article [`a`](#a).
+An exception is when the [noun](noun.md) begin with `u`, `ew` and `eu` and its projected sound sounds like the word `you`, we must use the article [`a`](#a).
 
 | correct                               | incorrect         |
 | ------------------------------------- | ----------------- |
@@ -50,7 +50,7 @@ An exception is when the [noun](/learn/english/noun) begin with `u`, `ew` and `e
 
 ## the
 
-We use the article `the` to refer to specific objects, with singular or plural [nouns](/learn/english/noun).
+We use the article `the` to refer to specific objects, with singular or plural [nouns](noun.md).
 It's easier learn exceptions to the rule
 
 | noun type    | example                    |
