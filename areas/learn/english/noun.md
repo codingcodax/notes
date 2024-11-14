@@ -12,13 +12,13 @@ In English, there is **no** grammatical gender to **differentiate** between the 
 
 There are several categories of nouns and a noun may belong to more than one category:
 
-- [countable nouns](#countable)
-- [uncountable nouns](#uncountable)
-- [common nouns](#common)
-- [proper nouns](#proper)
-- [specific nouns](#specific)
-- [abstract nouns](#abstract)
-- [[plural-nouns]]
+- [Countable nouns](#countable)
+- [Uncountable nouns](#uncountable)
+- [Common nouns](#common)
+- [Proper nouns](#proper)
+- [Specific nouns](#specific)
+- [Abstract nouns](#abstract)
+- [[plural-nouns|Plural nouns]]
 
 ## countable
 
@@ -43,7 +43,7 @@ Uncountable have no way of being counted:
 To consider:
 
 - Uncountable nouns don't have a plural form and are always expressed in singular form.
-- Never use the indefinite article `a/an` ([[article-types]]).
+- Never use the indefinite article `a/an` ([[article-types|article types]]).
 
 ## common
 
